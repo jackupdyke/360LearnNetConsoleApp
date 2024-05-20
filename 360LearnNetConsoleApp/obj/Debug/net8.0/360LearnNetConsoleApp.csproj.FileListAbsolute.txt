@@ -1,0 +1,15 @@
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\bin\Debug\net8.0\360LearnNetConsoleApp.exe
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\bin\Debug\net8.0\360LearnNetConsoleApp.deps.json
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\bin\Debug\net8.0\360LearnNetConsoleApp.runtimeconfig.json
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\bin\Debug\net8.0\360LearnNetConsoleApp.dll
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\bin\Debug\net8.0\360LearnNetConsoleApp.pdb
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.AssemblyInfo.cs
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.sourcelink.json
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.dll
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\refint\360LearnNetConsoleApp.dll
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.pdb
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\360LearnNetConsoleApp.genruntimeconfig.cache
+C:\Users\jack.updyke\360LearnNetConsoleApp\360LearnNetConsoleApp-1\360LearnNetConsoleApp\obj\Debug\net8.0\ref\360LearnNetConsoleApp.dll
