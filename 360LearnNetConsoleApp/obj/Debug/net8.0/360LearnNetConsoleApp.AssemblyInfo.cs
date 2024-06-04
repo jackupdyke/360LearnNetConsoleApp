@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("360LearnNetConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a939b05543a59028d3c861628c9fba1db51604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fc55d6c869de11bc1c9270dd3d2b77a722899b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("360LearnNetConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("360LearnNetConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
